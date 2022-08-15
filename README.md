@@ -1,3 +1,6 @@
+# 2022.08.15 월
+리액트를 다루는 기술(개정판) 8장 Hooks 환경설정까지 완료
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
