@@ -4,6 +4,10 @@
 # 2022.08.16 화
 리액트를 다루는 기술(개정판) 8장 8.1 ~ 8.4 까지 공부
 
+# 2022.08.17 Wednesday
+리액트를 다루는 기술(개정판) 8장 마무리  
+아직 훅에 익숙하지 않고, 특히 커스텀 훅을 만드는 부분이 쉽게 연상되지 않음
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
